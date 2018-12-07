@@ -9,20 +9,20 @@ var partJson = {
       }
     },
     "color": {
-      "value": "#000000"
+      "value": "#14144d"
     },
     "shape": {
       "type": "circle",
       "stroke": {
         "width": 0,
-        "color": "#000000"
+        "color": "#14144d"
       },
       "polygon": {
         "nb_sides": 5
       },
     },
     "opacity": {
-      "value": 0.5,
+      "value": 0.7,
       "random": false,
       "anim": {
         "enable": false,
