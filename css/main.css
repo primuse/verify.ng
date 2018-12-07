@@ -42,7 +42,32 @@ canvas {
   height: 100%;
 }
 
+/* footer */
+.footer-ico {
+  width: 35px;
+  height: auto;
+}
+.footer-second-content {
+  border-bottom: 1px solid rgba(255, 255, 255, .2);
+  padding-bottom: 20px;
+}
+.footer-third-content {
+  padding-top: 20px;
+}
+.footer-first-content a {
+  margin-right: 32px;
+}
+.footer-first-content {
+  padding-bottom: 36px;
+}
+.md-padding {
+  padding: 50px 0 20px 0;
+}
+
 /* sizes */
 .mb-15 {
   margin-bottom: 15px;
+}
+.pb-23 {
+  padding-bottom: 23px;
 }

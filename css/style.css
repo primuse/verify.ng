@@ -31,6 +31,10 @@ h4 {
 	background-color: rgba(235, 235, 224, .4);
 	border-bottom: 2px solid rgba(235, 235, 224, .8);
 }
+.banner-row span a, .banner-row span a:hover {
+	color: rgb(21, 21, 70);
+	text-decoration: none;
+}
 .navbar-brand span {
 	color: rgb(21, 21, 70);
 	font-family: 'latoBold', sans-serif;
@@ -39,8 +43,23 @@ h4 {
 	font-size: 1.05rem;
 	color: #212529;
 }
+ 
+/* footer */
+footer a {
+  color: #898e94;
+}
+footer a:hover {
+  color: rgba(255, 255, 255, .8);
+  text-decoration: none;
+}
 
 /* colors */
 .blue {
-	color: rgb(21, 21, 70);
+	color: rgb(20, 20, 59);
+}
+.bg-blue {
+	background-color: rgb(16, 16, 37);
+}
+.white {
+	color: rgba(255, 255, 255, .8);
 }
