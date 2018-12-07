@@ -44,11 +44,11 @@ canvas {
 
 /* footer */
 .footer-ico {
-  width: 35px;
+  width: 25px;
   height: auto;
 }
 .footer-img {
-  width: 110px;
+  width: 150px;
   height: auto;
 }
 .footer-second-content {
@@ -61,10 +61,10 @@ canvas {
   margin-right: 32px;
 }
 .footer-first-content {
-  padding-bottom: 36px;
+  padding-bottom: 15px;
 }
 .md-padding {
-  padding: 50px 0 20px 0;
+  padding: 30px 0 20px 0;
 }
 
 /* sizes */
@@ -73,4 +73,7 @@ canvas {
 }
 .pb-23 {
   padding-bottom: 23px;
+}
+.mb-30 {
+  margin-bottom: 30px;
 }
